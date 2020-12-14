@@ -1,5 +1,5 @@
 # TV-Show-Search
-This project uses AXIOS (A library for making HTTP requests)and "http://api.tvmaze.com/search/shows" as the API. 
+This project uses AXIOS (A library for making HTTP requests)and "http://api.tvmaze.com/" as the API. 
 
 **Contents of the repository**
 This repository contains two files - one HTML and one JavaScript.
